@@ -1,6 +1,6 @@
 # NAME: giffgaff
 
-# REPO: https://github.com/blackmatrix7/ios_rule_script
+# REPO: https://raw.githubusercontent.com/cjx512/sr_list/refs/heads/main/sr/giffgaff.list
 
 DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-SUFFIX,giffgaff.design
